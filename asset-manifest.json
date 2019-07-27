@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/newsolitaire/static/css/main.babbe2f1.chunk.css",
-    "main.js": "/newsolitaire/static/js/main.02da9921.chunk.js",
-    "main.js.map": "/newsolitaire/static/js/main.02da9921.chunk.js.map",
+    "main.js": "/newsolitaire/static/js/main.73d690ed.chunk.js",
+    "main.js.map": "/newsolitaire/static/js/main.73d690ed.chunk.js.map",
     "runtime~main.js": "/newsolitaire/static/js/runtime~main.037889da.js",
     "runtime~main.js.map": "/newsolitaire/static/js/runtime~main.037889da.js.map",
-    "static/js/2.c2695c00.chunk.js": "/newsolitaire/static/js/2.c2695c00.chunk.js",
-    "static/js/2.c2695c00.chunk.js.map": "/newsolitaire/static/js/2.c2695c00.chunk.js.map",
+    "static/js/2.589bcbbd.chunk.js": "/newsolitaire/static/js/2.589bcbbd.chunk.js",
+    "static/js/2.589bcbbd.chunk.js.map": "/newsolitaire/static/js/2.589bcbbd.chunk.js.map",
     "index.html": "/newsolitaire/index.html",
-    "precache-manifest.a2bf721cb876c00f47e0c3ba493e2cce.js": "/newsolitaire/precache-manifest.a2bf721cb876c00f47e0c3ba493e2cce.js",
+    "precache-manifest.7dc93f647f38f1728759f0a990fa3d8a.js": "/newsolitaire/precache-manifest.7dc93f647f38f1728759f0a990fa3d8a.js",
     "service-worker.js": "/newsolitaire/service-worker.js",
     "static/css/main.babbe2f1.chunk.css.map": "/newsolitaire/static/css/main.babbe2f1.chunk.css.map"
   }

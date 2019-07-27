@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99fac2876e0fdc1d8aed604d417f0b9c",
+    "revision": "c7e805726250746905cdfe75997dd1c4",
     "url": "/newsolitaire/index.html"
   },
   {
-    "revision": "5a7cf4759721f0a5ed0e",
+    "revision": "4a2f3d71b5c9bb8fff76",
     "url": "/newsolitaire/static/css/main.babbe2f1.chunk.css"
   },
   {
-    "revision": "72c252c37735d2180df8",
-    "url": "/newsolitaire/static/js/2.c2695c00.chunk.js"
+    "revision": "416ceac31df32012e442",
+    "url": "/newsolitaire/static/js/2.589bcbbd.chunk.js"
   },
   {
-    "revision": "5a7cf4759721f0a5ed0e",
-    "url": "/newsolitaire/static/js/main.02da9921.chunk.js"
+    "revision": "4a2f3d71b5c9bb8fff76",
+    "url": "/newsolitaire/static/js/main.73d690ed.chunk.js"
   },
   {
     "revision": "c819ea00745485b0365c",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/newsolitaire/precache-manifest.a2bf721cb876c00f47e0c3ba493e2cce.js"
+  "/newsolitaire/precache-manifest.7dc93f647f38f1728759f0a990fa3d8a.js"
 );
 
 self.addEventListener('message', (event) => {
